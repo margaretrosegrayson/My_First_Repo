@@ -1,0 +1,73 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+}
+.inline-block {
+  padding: 15px 30px;
+  display: inline-block;
+}
+.leftSide {
+  float: left;
+  height: 700px;
+  background-color: lightblue;
+  width: 29%;
+  text-align: center;
+}
+
+.Caspian {
+  padding-top: 50px;
+  width: 30%;
+}
+
+.rightSide {
+  float: left;
+  background-color: lightgreen;
+  height: 700px;
+  width: 70%;
+  text-align: center;
+}
+
+.card {
+  display: inline-block;
+  background-color: #C6C6C6;
+  border-radius: 5px;
+  height: 200px;
+  width: 150px;
+  margin: 35px;
+  margin-top: 50px;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  text-align: left;
+  line-height: 1.5em;
+  padding-top: 15px;
+}
+
+.sidebar {
+  background-color: gray;
+  height: 385px;
+  
+}
+ 
+ .left {
+   float: left;
+   padding: 5px;
+ }
+ .right {
+   float: right;
+   padding: 5px;
+ }
+
+ .rightSideTop {
+   padding: 10px;
+   border: 1px solid #999999;
+   margin-bottom: 40px;
+   overflow: auto;
+ }
+
+ .rightSideBottom {
+   padding: 10px;
+   border: 1px solid #999999;
+   overflow: auto;
+ }
